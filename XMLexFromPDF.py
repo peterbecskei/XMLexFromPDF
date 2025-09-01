@@ -39,4 +39,4 @@ if __name__ == "__main__":
     if os.path.isdir(directory):
         extract_xml_from_pdfs(directory)
     else:
-        print("Hibás könyvtár útvonal!")
+        print("Hibás könyvtár útvonal...")
